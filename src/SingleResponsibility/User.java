@@ -9,6 +9,6 @@ public class User {
         userId=1234;
         name="Shubham Saini";
         address="Gandhi Colony";
-        contactNumber= 12345;
+        contactNumber= 1585;
     }
 }
